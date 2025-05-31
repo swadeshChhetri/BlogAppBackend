@@ -53,10 +53,6 @@ Make sure the Laravel backend allows CORS requests.
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ## 🙋‍♂️ Author
 
 Developed with ❤️ by **Swadesh**
